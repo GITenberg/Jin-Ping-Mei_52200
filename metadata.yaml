@@ -1,6 +1,9 @@
 _repo: Jin-Ping-Mei_52200
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Jin Ping Mei
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Xiaoxiaosheng
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/46725
     wikipedia: https://zh.wikipedia.org/wiki/%E5%85%B0%E9%99%B5%E7%AC%91%E7%AC%91%E7%94%9F
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52200#Jin-Ping-Mei
 gutenberg_issued: '2016-05-31'
 gutenberg_type: Text
 identifiers:
