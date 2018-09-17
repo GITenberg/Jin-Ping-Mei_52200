@@ -1,0 +1,30 @@
+_repo: Jin-Ping-Mei_52200
+_version: 0.0.1
+alternative_title: Jin Ping Mei
+creator:
+  author:
+    agent_name: Xiaoxiaosheng
+    aliases:
+    - 笑笑生
+    - Hsiao-hsiao-sheng
+    - 兰陵笑笑生
+    gutenberg_agent_id: '46725'
+    url: http://www.gutenberg.org/2009/agents/46725
+    wikipedia: https://zh.wikipedia.org/wiki/%E5%85%B0%E9%99%B5%E7%AC%91%E7%AC%91%E7%94%9F
+description: ''
+gutenberg_issued: '2016-05-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52200'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Domestic fiction'
+- !lcsh 'China -- Social life and customs -- 960-1644 -- Fiction'
+- !lcc 'PL'
+- !lcsh 'Chinese fiction -- Ming dynasty, 1368-1644'
+- GITenberg
+title: 金瓶梅
+url: http://www.gutenberg.org/ebooks/52200
